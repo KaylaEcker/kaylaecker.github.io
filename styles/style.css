@@ -16,10 +16,42 @@ body a {
 }
 
 body {
-    background-color: grey;
+    background-color: silver;
 }
 
 ul {
-    list-style-type: square;
-    color: aliceblue;
+    list-style-type: none;
+/*    color: aliceblue;*/
+}
+
+#construction img {
+    position: absolute;
+    top: 26px;
+    right: 134px;
+}
+
+/*
+nav a {
+    position: relative;
+    left: 0px;
+    display: inline-block;
+}*/
+
+.home {
+    position: absolute;
+    top: 13px;
+    left: 4px;
+}
+
+.hat {
+    position: absolute;
+    top: 45px;
+    left: 0px;
+    
+}
+
+.resume {
+    position: absolute;
+    top: 85px;
+    left: 5px;
 }

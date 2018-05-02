@@ -1,33 +1,3 @@
-html { 
-  background: url("https://static1.squarespace.com/static/5708463362cd9429d4e509b1/t/5743a533c2ea51905f6086f4/1464050999256/Like+a+Boss+hacker.jpg?format=2500w") no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
-
-#white {
-    color: ghostwhite;
-}
-
-ul {
-    list-style-type: square;
-}
-#center {
-    left: 0;
-    position:absolute;
-    text-align:center;
-    top: 30px;
-    width: 100%;
-}
-
-body a {
-  position: relative;
-  text-decoration: none;
-/*  font-family: 'Chalkduster';*/
-  color: white
-}
-
 #resume img{
   position: absolute;
   width: 800px; /*the image width*/
@@ -36,4 +6,20 @@ body a {
   top: 40%;
   margin-left: -250px; /*half the image width*/
   margin-top: -250px; /*half the image height*/
+}
+
+body a {
+  position: relative;
+  text-decoration: none;
+/*  font-family: 'Chalkduster';*/
+  color: aliceblue
+}
+
+body {
+    background-color: grey;
+}
+
+ul {
+    list-style-type: square;
+    color: aliceblue;
 }

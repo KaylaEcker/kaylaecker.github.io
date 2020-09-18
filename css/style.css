@@ -1,0 +1,12 @@
+.main{
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+img{
+  max-height: 50%;
+  max-width: 50%;
+}
